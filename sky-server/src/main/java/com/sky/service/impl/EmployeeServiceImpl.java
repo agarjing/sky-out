@@ -120,7 +120,7 @@ public class EmployeeServiceImpl implements EmployeeService {
      * @param status
      * @param id
      */
-    public void startOrStop(Integer status, long id) {
+    public void startOrStop(Integer status, Long id) {
         // update employee set status = ? where id = ?
 
         /*
