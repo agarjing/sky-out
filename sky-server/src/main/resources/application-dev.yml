@@ -8,6 +8,12 @@ sky:
     password: zj93991102
   alioss:
     endpoint: oss-cn-beijing.aliyuncs.com
-    access-key-id: 
-    access-key-secret: 
+    access-key-id:
+    access-key-secret:
     bucket-name: sky-agar
+  redis:
+    host: localhost
+    port: 6379
+    password: zj93991102
+    database: 1
+
