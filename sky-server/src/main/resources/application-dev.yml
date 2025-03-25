@@ -8,7 +8,7 @@ sky:
     password: zj93991102
   alioss:
     endpoint: oss-cn-beijing.aliyuncs.com
-    access-key-id:
+    access-key-id: LTAI5tMN2wSpVK1j8JK5RiUt
     access-key-secret:
     bucket-name: sky-agar
   redis:
@@ -16,4 +16,7 @@ sky:
     port: 6379
     password: zj93991102
     database: 1
+  wechat:
+    appid: wx6a3bd4c4671c3987
+    secret: 276e324542c61b8f33e994c0e905078e
 
